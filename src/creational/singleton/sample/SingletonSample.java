@@ -19,7 +19,7 @@ public class SingletonSample {
      * @return the single object
      */
     public Object getInstance(){
-        // because of the lazy loading the o instantiate here when this method call by user.
+        // because of the lazy loading, the object instantiate here when this method call by user.
         if (o == null){
             o=new Object();
         }
