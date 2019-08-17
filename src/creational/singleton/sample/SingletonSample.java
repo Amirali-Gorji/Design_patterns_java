@@ -1,4 +1,4 @@
-package creational.singleton;
+package creational.singleton.sample;
 
 /**
  * @author Nazerpanahi
